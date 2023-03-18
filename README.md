@@ -13,15 +13,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to JunLov's page
-### What's up?
+# Hi I'm Junior 👋🏾
+## Eh what's up, Doc? 🥕🐰🥕
+![JunLov Banner](https://media.licdn.com/dms/image/D5616AQGLQoX785uMvg/profile-displaybackgroundimage-shrink_350_1400/0/1667837776159?e=1684368000&v=beta&t=AUpGtvT0rwLxZskVp1TIyF6gKH2zjd3InjB66bogQfI)
+---
 
-- I'm currently working on the Full Stack Open program
-- I'm currently learning 
+
+> "You merely adopted the dark; I was **born** in it, **molded** by it. I didn't see the light until I was already a man, by then it was nothing to me but blinding! The shadows betray you because **they belong to me**.” - Bane
+
+- 🥞 I'm currently working on the Full Stack Open program
+- 🎹 I'm currently learning Typescript
+- 🍿 I'm a movie buff - nowadays it's superhero movies
 - Also I'm updating this page...come back soon
 
 
-## Need Help? Just want to talk?
-LinkedIn
-Website
+
+> “This universe is **finite**, its resources, finite… if life is left unchecked, life will **cease to exist**.” – Thanos
+---
+
+
+## Need Help? 
+#### Or...Just want to talk?
+[LinkedIn](https://www.linkedin.com/in/juniorpl)
+[Website](https://www.junlov.com)
+[Twitter](https://wwww.twitter.com/junlov0)
+
 Visitor Count
+
+
+
+> [Time] is not what you think it is. It’s a **cage**; it does everything it can to **break you**. – Kang
+
+
