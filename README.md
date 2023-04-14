@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🥞 I'm currently working on the Full Stack Open program
 - 🎹 I'm currently learning Typescript
 - 🍿 I'm a movie buff - nowadays it's superhero movies
-- Also I'm updating this page...come back soon
 
 
 
