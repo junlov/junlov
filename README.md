@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # Hi I'm Junior 👋🏾
 ## Eh what's up, Doc? 🥕🐰🥕
-![JunLov Banner](https://media.licdn.com/dms/image/D5616AQGLQoX785uMvg/profile-displaybackgroundimage-shrink_350_1400/0/1667837776159?e=1684368000&v=beta&t=AUpGtvT0rwLxZskVp1TIyF6gKH2zjd3InjB66bogQfI)
 ---
 
 
