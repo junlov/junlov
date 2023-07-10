@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 ### Skills
 
 
+| <a href="https://github.com/junlov"><img align="center" src="https://github-readme-stats-private-git-main-k4ngar0o.vercel.app/api?username=junlov&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Junlov's github stats" /></a> | <a href="https://github.com/junlov"><img align="center" src="https://github-readme-stats-private-git-main-k4ngar0o.vercel.app/api/top-langs/?username=junlov&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
+
+
+[![Junlov's wakatime stats](https://github-readme-stats-private-git-main-k4ngar0o.vercel.app/api/wakatime?username=junlov&theme=codeSTACKr)](https://github.com/junlov)
+
 
